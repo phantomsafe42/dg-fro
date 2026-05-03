@@ -30,6 +30,9 @@ th { color:var(--muted); background:rgba(255,255,255,.05); }
 .list { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:10px; }
 .list a { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:12px; display:flex; align-items:center; gap:10px; color:var(--text); }
 .list img { width:42px; height:42px; image-rendering:pixelated; object-fit:contain; }
+.timeline-item { border-left:3px solid rgba(140,180,255,.55); padding:8px 10px; margin:8px 0; background:rgba(255,255,255,.05); border-radius:8px; }
+.timeline-type { color:var(--accent); font-weight:800; font-size:12px; text-transform:uppercase; letter-spacing:.5px; }
+.review { border-left-color:var(--danger); background:rgba(255,80,80,.08); }
 </style>
 </head>
 <body><div class="container">
@@ -37,8 +40,8 @@ th { color:var(--muted); background:rgba(255,255,255,.05); }
 <section class="hero">
     <div>
         <h1>Fire Red Omega Run History</h1>
-        <div class="subtitle">Generated from 1 save source(s). 24 Pokemon page(s).</div>
-        <div class="subtitle">Last generated: 2026-05-03T06:47:26.647Z</div>
+        <div class="subtitle">Generated from 10 save source(s). 24 Pokemon page(s).</div>
+        <div class="subtitle">Last generated: 2026-05-03T11:34:13.773Z</div>
     </div>
 </section>
 <input id="search" class="search" placeholder="Search Pokemon..." oninput="filterPokemon()">
