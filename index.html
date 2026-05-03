@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fire Red Omega Run History</title>
+<style>
+:root { --bg:#0b1020; --panel:#151c31; --panel2:#1d2640; --border:rgba(255,255,255,.15); --text:#f7f7fb; --muted:rgba(247,247,251,.72); --accent:#8cb4ff; --danger:#ff8c8c; --gold:#ffd76a; }
+* { box-sizing:border-box; }
+body { margin:0; background:linear-gradient(180deg,#080b14,#11192d); color:var(--text); font-family:Arial,sans-serif; }
+a { color:var(--accent); text-decoration:none; }
+.container { max-width:1100px; margin:0 auto; padding:24px; }
+.nav { margin-bottom:18px; color:var(--muted); }
+.hero { display:flex; gap:18px; align-items:center; background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:18px; box-shadow:0 12px 30px rgba(0,0,0,.25); }
+.sprite { width:96px; height:96px; object-fit:contain; image-rendering:pixelated; }
+h1 { margin:0; font-size:36px; }
+.subtitle { color:var(--muted); margin-top:6px; line-height:1.4; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:14px; margin-top:16px; }
+.card { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:14px; }
+.card h2 { margin:0 0 10px 0; font-size:18px; }
+.badge { display:inline-block; padding:5px 9px; border-radius:999px; border:1px solid rgba(255,215,106,.4); background:rgba(255,215,106,.12); color:var(--gold); font-weight:700; font-size:13px; margin:3px; }
+.pill { display:inline-block; padding:4px 8px; border-radius:999px; border:1px solid var(--border); background:rgba(255,255,255,.07); color:var(--muted); font-size:13px; margin:3px; }
+table { width:100%; border-collapse:collapse; margin-top:8px; }
+th, td { border-bottom:1px solid var(--border); padding:8px; text-align:left; vertical-align:top; font-size:14px; }
+th { color:var(--muted); background:rgba(255,255,255,.05); }
+.death { border-color:rgba(255,140,140,.35); background:rgba(255,80,80,.08); }
+.note, .small { color:var(--muted); line-height:1.45; }
+.small { font-size:13px; }
+.search { width:100%; padding:12px; border-radius:8px; border:1px solid var(--border); background:#0c1223; color:var(--text); font-size:16px; margin:12px 0; }
+.list { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:10px; }
+.list a { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:12px; display:flex; align-items:center; gap:10px; color:var(--text); }
+.list img { width:42px; height:42px; image-rendering:pixelated; object-fit:contain; }
+</style>
+</head>
+<body><div class="container">
+<div class="nav"><a href="../index.html">All games</a></div>
+<section class="hero">
+    <div>
+        <h1>Fire Red Omega Run History</h1>
+        <div class="subtitle">Generated from 1 save source(s). 24 Pokemon page(s).</div>
+        <div class="subtitle">Last generated: 2026-05-03T06:47:26.647Z</div>
+    </div>
+</section>
+<input id="search" class="search" placeholder="Search Pokemon..." oninput="filterPokemon()">
+<div class="list" id="list">
+        <a class="mon-link" data-name="dratini" href="pokemon/dratini.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/dratini.png" alt="">
+            <div><strong>Dratini</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="dugtrio" href="pokemon/dugtrio.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/dugtrio.png" alt="">
+            <div><strong>Dugtrio</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="electabuzz" href="pokemon/electabuzz.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/electabuzz.png" alt="">
+            <div><strong>Electabuzz</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="flareon" href="pokemon/flareon.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/flareon.png" alt="">
+            <div><strong>Flareon</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="flygon" href="pokemon/flygon.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/flygon.png" alt="">
+            <div><strong>Flygon</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="gyarados" href="pokemon/gyarados.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/gyarados.png" alt="">
+            <div><strong>Gyarados</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="haunter" href="pokemon/haunter.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/haunter.png" alt="">
+            <div><strong>Haunter</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="hitmonchan" href="pokemon/hitmonchan.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/hitmonchan.png" alt="">
+            <div><strong>Hitmonchan</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="krabby" href="pokemon/krabby.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/krabby.png" alt="">
+            <div><strong>Krabby</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="meganium" href="pokemon/meganium.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/meganium.png" alt="">
+            <div><strong>Meganium</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="metagross" href="pokemon/metagross.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/metagross.png" alt="">
+            <div><strong>Metagross</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="pidgeot" href="pokemon/pidgeot.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/pidgeot.png" alt="">
+            <div><strong>Pidgeot</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="poliwrath" href="pokemon/poliwrath.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/poliwrath.png" alt="">
+            <div><strong>Poliwrath</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="primeape" href="pokemon/primeape.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/primeape.png" alt="">
+            <div><strong>Primeape</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="raticate" href="pokemon/raticate.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/raticate.png" alt="">
+            <div><strong>Raticate</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="roselia" href="pokemon/roselia.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/roselia.png" alt="">
+            <div><strong>Roselia</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="sceptile" href="pokemon/sceptile.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/sceptile.png" alt="">
+            <div><strong>Sceptile</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="scizor" href="pokemon/scizor.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/scizor.png" alt="">
+            <div><strong>Scizor</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="sharpedo" href="pokemon/sharpedo.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/sharpedo.png" alt="">
+            <div><strong>Sharpedo</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="snorlax" href="pokemon/snorlax.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/snorlax.png" alt="">
+            <div><strong>Snorlax</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="swablu" href="pokemon/swablu.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/swablu.png" alt="">
+            <div><strong>Swablu</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="torkoal" href="pokemon/torkoal.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/torkoal.png" alt="">
+            <div><strong>Torkoal</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="venusaur" href="pokemon/venusaur.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/venusaur.png" alt="">
+            <div><strong>Venusaur</strong><div class="small">Runs: Current</div></div>
+        </a>
+        <a class="mon-link" data-name="whiscash" href="pokemon/whiscash.html">
+            <img src="https://play.pokemonshowdown.com/sprites/gen3/whiscash.png" alt="">
+            <div><strong>Whiscash</strong><div class="small">Runs: Current</div></div>
+        </a></div>
+<script>
+function filterPokemon() {
+    const q = document.getElementById('search').value.toLowerCase().trim();
+    document.querySelectorAll('.mon-link').forEach(link => {
+        link.style.display = link.dataset.name.includes(q) ? 'flex' : 'none';
+    });
+}
+</script></div></body>
+</html>
