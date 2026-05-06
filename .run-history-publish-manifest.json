@@ -1,6 +1,6 @@
 {
   "source": "beldumsafe/run_history/fire-red-omega",
-  "generatedAt": "2026-05-06T19:27:34.048Z",
+  "generatedAt": "2026-05-06T20:25:22.816Z",
   "files": [
     "index.html",
     "pokemon/castform.html",
@@ -11,6 +11,7 @@
     "pokemon/flareon.html",
     "pokemon/flygon.html",
     "pokemon/gengar.html",
+    "pokemon/golduck.html",
     "pokemon/gyarados.html",
     "pokemon/haunter.html",
     "pokemon/hitmonchan.html",
@@ -27,6 +28,8 @@
     "pokemon/sceptile.html",
     "pokemon/scizor.html",
     "pokemon/sharpedo.html",
+    "pokemon/shelgon.html",
+    "pokemon/sneasel.html",
     "pokemon/snorlax.html",
     "pokemon/swablu.html",
     "pokemon/torkoal.html",
