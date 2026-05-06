@@ -1,9 +1,9 @@
 {
   "gameId": "fire-red-omega",
   "gameTitle": "Fire Red Omega",
-  "generatedAt": "2026-05-06T21:18:10.009Z",
+  "generatedAt": "2026-05-06T21:36:48.431Z",
   "sourcePath": "/Volumes/E4tb_SWF/Stream/Overlays/Fire Red Omega/run_history/pokemon_run_history.json",
-  "saveCount": 37,
+  "saveCount": 38,
   "runSnapshots": [
     {
       "run": "current",
@@ -1360,6 +1360,47 @@
         "Torkoal",
         "Venusaur",
         "Whiscash"
+      ],
+      "playTime": ""
+    },
+    {
+      "run": "current",
+      "checkpoint": "20260506_143648",
+      "file": "current_20260506_143648.sav",
+      "partyCount": 5,
+      "boxCount": 24,
+      "deadBoxCount": 2,
+      "totalCount": 29,
+      "caughtSpecies": [
+        "Castform",
+        "Dragonite",
+        "Dugtrio",
+        "Electabuzz",
+        "Flareon",
+        "Flygon",
+        "Gengar",
+        "Golduck",
+        "Gyarados",
+        "Hitmonchan",
+        "Kingdra",
+        "Krabby",
+        "Lapras",
+        "Meganium",
+        "Metagross",
+        "Pidgeot",
+        "Poliwrath",
+        "Primeape",
+        "Raticate",
+        "Roselia",
+        "Sceptile",
+        "Scizor",
+        "Sharpedo",
+        "Shelgon",
+        "Sneasel",
+        "Snorlax",
+        "Swablu",
+        "Torkoal",
+        "Venusaur"
       ],
       "playTime": ""
     }
@@ -2816,6 +2857,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "dumithiq",
+          "displayName": "dumithiq",
+          "species": "Metagross",
+          "level": 58,
+          "ability": "Clear Body",
+          "item": "",
+          "nature": "Gentle",
+          "gender": "",
+          "location": "ROCK TUNNEL",
+          "storage": "box",
+          "box": 1,
+          "slot": 6,
+          "ivs": {
+            "hp": 28,
+            "at": 2,
+            "df": 22,
+            "sp": 12,
+            "sa": 20,
+            "sd": 0
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Meteor Mash",
+            "Psychic",
+            "Fire Punch",
+            "Protect"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "dumithiq",
           "displayName": "dumithiq",
@@ -4530,6 +4611,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "goinhome",
+          "displayName": "goinhome",
+          "species": "Gyarados",
+          "level": 58,
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "nature": "Lonely",
+          "gender": "",
+          "location": "ROUTE 4",
+          "storage": "party",
+          "box": null,
+          "slot": 1,
+          "ivs": {
+            "hp": 13,
+            "at": 24,
+            "df": 5,
+            "sp": 6,
+            "sa": 11,
+            "sd": 15
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Ice Beam",
+            "Rain Dance",
+            "Surf",
+            "Dragon Dance"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "goinhome",
           "displayName": "goinhome",
@@ -6377,6 +6498,46 @@
             "Thunder Wave",
             "Brick Break"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "controlla",
+          "displayName": "controlla",
+          "species": "Electabuzz",
+          "level": 58,
+          "ability": "Vital Spirit",
+          "item": "",
+          "nature": "Lonely",
+          "gender": "",
+          "location": "PALLET TOWN",
+          "storage": "box",
+          "box": 1,
+          "slot": 21,
+          "ivs": {
+            "hp": 21,
+            "at": 30,
+            "df": 18,
+            "sp": 8,
+            "sa": 9,
+            "sd": 31
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Thunderbolt",
+            "Quick Attack",
+            "Thunder Wave",
+            "Brick Break"
+          ]
         }
       ],
       "badges": [],
@@ -8037,6 +8198,46 @@
             "Ancient Power",
             "Dig"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "minor",
+          "displayName": "minor",
+          "species": "Dugtrio",
+          "level": 53,
+          "ability": "Arena Trap",
+          "item": "",
+          "nature": "Serious",
+          "gender": "",
+          "location": "DIGLETT'S CAVE",
+          "storage": "box",
+          "box": 1,
+          "slot": 15,
+          "ivs": {
+            "hp": 28,
+            "at": 17,
+            "df": 7,
+            "sp": 4,
+            "sa": 3,
+            "sd": 12
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Slash",
+            "Earthquake",
+            "Ancient Power",
+            "Dig"
+          ]
         }
       ],
       "badges": [],
@@ -9642,6 +9843,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "lesbian",
+          "displayName": "lesbian",
+          "species": "Scizor",
+          "level": 53,
+          "ability": "Swarm",
+          "item": "",
+          "nature": "Careful",
+          "gender": "",
+          "location": "CELADON CITY",
+          "storage": "box",
+          "box": 1,
+          "slot": 3,
+          "ivs": {
+            "hp": 17,
+            "at": 27,
+            "df": 31,
+            "sp": 29,
+            "sa": 2,
+            "sd": 22
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Swords Dance",
+            "Wing Attack",
+            "Baton Pass",
+            "Silver Wind"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "lesbian",
           "displayName": "lesbian",
@@ -11328,6 +11569,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "changbin",
+          "displayName": "changbin",
+          "species": "Hitmonchan",
+          "level": 58,
+          "ability": "Frisk",
+          "item": "",
+          "nature": "Naive",
+          "gender": "",
+          "location": "SAFFRON CITY",
+          "storage": "box",
+          "box": 1,
+          "slot": 20,
+          "ivs": {
+            "hp": 15,
+            "at": 9,
+            "df": 15,
+            "sp": 27,
+            "sa": 16,
+            "sd": 5
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Sky Uppercut",
+            "Ice Punch",
+            "Thunder Punch",
+            "Fire Punch"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "changbin",
           "displayName": "changbin",
@@ -13083,6 +13364,46 @@
             "Leaf Blade",
             "Cut"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "marvin",
+          "displayName": "marvin",
+          "species": "Sceptile",
+          "level": 58,
+          "ability": "Overgrow",
+          "item": "",
+          "nature": "Lonely",
+          "gender": "",
+          "location": "ROUTE 2",
+          "storage": "box",
+          "box": 1,
+          "slot": 23,
+          "ivs": {
+            "hp": 29,
+            "at": 9,
+            "df": 18,
+            "sp": 24,
+            "sa": 24,
+            "sd": 15
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Crunch",
+            "Agility",
+            "Leaf Blade",
+            "Cut"
+          ]
         }
       ],
       "badges": [],
@@ -14771,6 +15092,46 @@
             "Feint Attack",
             "Wing Attack"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "2birds",
+          "displayName": "2birds",
+          "species": "Pidgeot",
+          "level": 58,
+          "ability": "Frisk",
+          "item": "",
+          "nature": "Quirky",
+          "gender": "",
+          "location": "VIRIDIAN FOREST",
+          "storage": "box",
+          "box": 1,
+          "slot": 18,
+          "ivs": {
+            "hp": 24,
+            "at": 24,
+            "df": 8,
+            "sp": 6,
+            "sa": 18,
+            "sd": 12
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Mirror Move",
+            "Fly",
+            "Feint Attack",
+            "Wing Attack"
+          ]
         }
       ],
       "badges": [],
@@ -16410,6 +16771,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "SpikyNokia",
+          "displayName": "SpikyNokia",
+          "species": "Sharpedo",
+          "level": 53,
+          "ability": "Rough Skin",
+          "item": "",
+          "nature": "Modest",
+          "gender": "",
+          "location": "ROUTE 25",
+          "storage": "box",
+          "box": 1,
+          "slot": 10,
+          "ivs": {
+            "hp": 16,
+            "at": 20,
+            "df": 21,
+            "sp": 26,
+            "sa": 8,
+            "sd": 4
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Dive",
+            "Crunch",
+            "Ancient Power",
+            "Taunt"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "SpikyNokia",
           "displayName": "SpikyNokia",
@@ -19431,6 +19832,46 @@
             "Safeguard",
             "Mist"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "q-tip",
+          "displayName": "q-tip",
+          "species": "Swablu",
+          "level": 23,
+          "ability": "Natural Cure",
+          "item": "",
+          "nature": "Naive",
+          "gender": "",
+          "location": "ROUTE 10",
+          "storage": "box",
+          "box": 1,
+          "slot": 5,
+          "ivs": {
+            "hp": 5,
+            "at": 6,
+            "df": 25,
+            "sp": 25,
+            "sa": 10,
+            "sd": 22
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Sing",
+            "Fury Attack",
+            "Safeguard",
+            "Mist"
+          ]
         }
       ],
       "badges": [],
@@ -21210,6 +21651,36 @@
             "Muddy Water"
           ],
           "message": "tsu the Whiscash moves changed."
+        },
+        {
+          "id": "1778103408365-834a4ea7b4dad8",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.365Z",
+          "auto": true,
+          "type": "auto_possible_death_or_release",
+          "species": "Whiscash",
+          "nickname": "tsu",
+          "displayName": "tsu",
+          "level": 58,
+          "lastStorage": "party",
+          "lastBox": null,
+          "lastSlot": 4,
+          "message": "tsu the Whiscash disappeared from the save. Confirm whether this was a death, release, or trade.",
+          "needsReview": true
+        },
+        {
+          "id": "1778103408366-fb39446ea37808",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.366Z",
+          "auto": true,
+          "type": "auto_party_left",
+          "species": "Whiscash",
+          "nickname": "tsu",
+          "message": "tsu the Whiscash left the active party."
         }
       ]
     },
@@ -22664,6 +23135,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "eevee",
+          "displayName": "eevee",
+          "species": "Flareon",
+          "level": 50,
+          "ability": "Flash Fire",
+          "item": "",
+          "nature": "Impish",
+          "gender": "",
+          "location": "CELADON CITY",
+          "storage": "box",
+          "box": 1,
+          "slot": 7,
+          "ivs": {
+            "hp": 3,
+            "at": 21,
+            "df": 11,
+            "sp": 20,
+            "sa": 9,
+            "sd": 0
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Sand-Attack",
+            "Flamethrower",
+            "Quick Attack",
+            "Bite"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "eevee",
           "displayName": "eevee",
@@ -24281,6 +24792,46 @@
             "Giga Drain",
             "Extrasensory"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "blem",
+          "displayName": "blem",
+          "species": "Roselia",
+          "level": 50,
+          "ability": "Natural Cure",
+          "item": "",
+          "nature": "Hasty",
+          "gender": "",
+          "location": "CERULEAN CITY",
+          "storage": "box",
+          "box": 1,
+          "slot": 8,
+          "ivs": {
+            "hp": 20,
+            "at": 4,
+            "df": 15,
+            "sp": 9,
+            "sa": 6,
+            "sd": 31
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Toxic",
+            "Petal Dance",
+            "Giga Drain",
+            "Extrasensory"
+          ]
         }
       ],
       "badges": [],
@@ -25828,6 +26379,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "twerkhole",
+          "displayName": "twerkhole",
+          "species": "Torkoal",
+          "level": 50,
+          "ability": "White Smoke",
+          "item": "",
+          "nature": "Lax",
+          "gender": "",
+          "location": "MT. MOON",
+          "storage": "box",
+          "box": 1,
+          "slot": 9,
+          "ivs": {
+            "hp": 12,
+            "at": 3,
+            "df": 13,
+            "sp": 22,
+            "sa": 1,
+            "sd": 31
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Heat Wave",
+            "Protect",
+            "Curse",
+            "Flamethrower"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "twerkhole",
           "displayName": "twerkhole",
@@ -27445,6 +28036,46 @@
             "Bubble Beam",
             "Rain Dance"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "jimy",
+          "displayName": "jimy",
+          "species": "Poliwrath",
+          "level": 58,
+          "ability": "Water Absorb",
+          "item": "Sitrus Berry",
+          "nature": "Modest",
+          "gender": "",
+          "location": "ROUTE 22",
+          "storage": "party",
+          "box": null,
+          "slot": 5,
+          "ivs": {
+            "hp": 2,
+            "at": 5,
+            "df": 7,
+            "sp": 23,
+            "sa": 17,
+            "sd": 14
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Body Slam",
+            "Submission",
+            "Bubble Beam",
+            "Rain Dance"
+          ]
         }
       ],
       "badges": [],
@@ -27576,6 +28207,74 @@
           "species": "Poliwrath",
           "nickname": "jimy",
           "message": "jimy the Poliwrath joined the active party."
+        },
+        {
+          "id": "1778103408364-2a1c673ad3ebb8",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.364Z",
+          "auto": true,
+          "type": "auto_new_pokemon",
+          "species": "Poliwrath",
+          "nickname": "jimy",
+          "displayName": "jimy",
+          "level": 58,
+          "ability": "Water Absorb",
+          "nature": "Modest",
+          "location": "ROUTE 22",
+          "storage": "party",
+          "box": null,
+          "slot": 5,
+          "moves": [
+            "Body Slam",
+            "Submission",
+            "Bubble Beam",
+            "Rain Dance"
+          ],
+          "message": "jimy the Poliwrath appeared in the save."
+        },
+        {
+          "id": "1778103408366-2d5383dc2b8a3",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.366Z",
+          "auto": true,
+          "type": "auto_possible_death_or_release",
+          "species": "Poliwrath",
+          "nickname": "jimy",
+          "displayName": "jimy",
+          "level": 58,
+          "lastStorage": "party",
+          "lastBox": null,
+          "lastSlot": 6,
+          "message": "jimy the Poliwrath disappeared from the save. Confirm whether this was a death, release, or trade.",
+          "needsReview": true
+        },
+        {
+          "id": "1778103408366-625f89c276b8",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.366Z",
+          "auto": true,
+          "type": "auto_party_joined",
+          "species": "Poliwrath",
+          "nickname": "jimy",
+          "message": "jimy the Poliwrath joined the active party."
+        },
+        {
+          "id": "1778103408367-f435a2d11f5208",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.367Z",
+          "auto": true,
+          "type": "auto_party_left",
+          "species": "Poliwrath",
+          "nickname": "jimy",
+          "message": "jimy the Poliwrath left the active party."
         }
       ]
     },
@@ -29030,6 +29729,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "desires",
+          "displayName": "desires",
+          "species": "Krabby",
+          "level": 39,
+          "ability": "Shell Armor",
+          "item": "Everstone",
+          "nature": "Brave",
+          "gender": "",
+          "location": "S.S. ANNE",
+          "storage": "box",
+          "box": 1,
+          "slot": 11,
+          "ivs": {
+            "hp": 13,
+            "at": 10,
+            "df": 17,
+            "sp": 2,
+            "sa": 17,
+            "sd": 22
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Stomp",
+            "Metal Claw",
+            "Harden",
+            "Bubble Beam"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "desires",
           "displayName": "desires",
@@ -30699,6 +31438,46 @@
             "Sleep Talk",
             "Body Slam"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "snorelax",
+          "displayName": "snorelax",
+          "species": "Snorlax",
+          "level": 40,
+          "ability": "Thick Fat",
+          "item": "",
+          "nature": "Jolly",
+          "gender": "",
+          "location": "ROUTE 12",
+          "storage": "box",
+          "box": 1,
+          "slot": 12,
+          "ivs": {
+            "hp": 1,
+            "at": 17,
+            "df": 6,
+            "sp": 27,
+            "sa": 7,
+            "sd": 18
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Headbutt",
+            "Rest",
+            "Sleep Talk",
+            "Body Slam"
+          ]
         }
       ],
       "badges": [],
@@ -32260,6 +33039,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "hotlinblng",
+          "displayName": "hotlinblng",
+          "species": "Meganium",
+          "level": 50,
+          "ability": "Overgrow",
+          "item": "",
+          "nature": "Lax",
+          "gender": "",
+          "location": "UNDERGROUND PATH",
+          "storage": "box",
+          "box": 1,
+          "slot": 13,
+          "ivs": {
+            "hp": 22,
+            "at": 26,
+            "df": 6,
+            "sp": 4,
+            "sa": 1,
+            "sd": 25
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Safeguard",
+            "Grass Whistle",
+            "Magical Leaf",
+            "Light Screen"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "hotlinblng",
           "displayName": "hotlinblng",
@@ -33891,6 +34710,46 @@
             "Seismic Toss",
             "Cross Chop"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "gods",
+          "displayName": "gods",
+          "species": "Primeape",
+          "level": 50,
+          "ability": "Vital Spirit",
+          "item": "",
+          "nature": "Hasty",
+          "gender": "",
+          "location": "ROUTE 3",
+          "storage": "box",
+          "box": 1,
+          "slot": 14,
+          "ivs": {
+            "hp": 26,
+            "at": 9,
+            "df": 0,
+            "sp": 19,
+            "sa": 31,
+            "sd": 27
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Revenge",
+            "Screech",
+            "Seismic Toss",
+            "Cross Chop"
+          ]
         }
       ],
       "badges": [],
@@ -35438,6 +36297,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "denzelc",
+          "displayName": "denzelc",
+          "species": "Flygon",
+          "level": 58,
+          "ability": "Compound Eyes",
+          "item": "Choice Band",
+          "nature": "Relaxed",
+          "gender": "",
+          "location": "SAFARI ZONE",
+          "storage": "party",
+          "box": null,
+          "slot": 3,
+          "ivs": {
+            "hp": 11,
+            "at": 10,
+            "df": 5,
+            "sp": 20,
+            "sa": 17,
+            "sd": 6
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Dragon Claw",
+            "Crunch",
+            "Earthquake",
+            "Signal Beam"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "denzelc",
           "displayName": "denzelc",
@@ -37245,6 +38144,46 @@
             "Quick Attack",
             "Swords Dance"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "ratbbdaddy",
+          "displayName": "ratbbdaddy",
+          "species": "Raticate",
+          "level": 50,
+          "ability": "Guts",
+          "item": "",
+          "nature": "Bashful",
+          "gender": "",
+          "location": "ROUTE 1",
+          "storage": "box",
+          "box": 1,
+          "slot": 16,
+          "ivs": {
+            "hp": 29,
+            "at": 20,
+            "df": 11,
+            "sp": 14,
+            "sa": 28,
+            "sd": 18
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Take Down",
+            "Rest",
+            "Quick Attack",
+            "Swords Dance"
+          ]
         }
       ],
       "badges": [],
@@ -38792,6 +39731,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "jungle",
+          "displayName": "jungle",
+          "species": "Venusaur",
+          "level": 50,
+          "ability": "Overgrow",
+          "item": "",
+          "nature": "Bold",
+          "gender": "",
+          "location": "VERMILION CITY",
+          "storage": "box",
+          "box": 1,
+          "slot": 19,
+          "ivs": {
+            "hp": 30,
+            "at": 18,
+            "df": 27,
+            "sp": 0,
+            "sa": 7,
+            "sd": 25
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Solar Beam",
+            "Poison Powder",
+            "Sludge",
+            "Synthesis"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "jungle",
           "displayName": "jungle",
@@ -40699,6 +41678,46 @@
             "Hail",
             "Weather Ball"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "dr",
+          "displayName": "dr",
+          "species": "Castform",
+          "level": 45,
+          "ability": "Forecast",
+          "item": "",
+          "nature": "Mild",
+          "gender": "",
+          "location": "SILPH CO.",
+          "storage": "box",
+          "box": 1,
+          "slot": 17,
+          "ivs": {
+            "hp": 24,
+            "at": 1,
+            "df": 29,
+            "sp": 18,
+            "sa": 4,
+            "sd": 2
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Rain Dance",
+            "Sunny Day",
+            "Hail",
+            "Weather Ball"
+          ]
         }
       ],
       "badges": [],
@@ -41006,6 +42025,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "slimeuout",
+          "displayName": "slimeuout",
+          "species": "Dragonite",
+          "level": 58,
+          "ability": "Inner Focus",
+          "item": "",
+          "nature": "Serious",
+          "gender": "",
+          "location": "VERMILION CITY",
+          "storage": "box",
+          "box": 1,
+          "slot": 4,
+          "ivs": {
+            "hp": 17,
+            "at": 23,
+            "df": 23,
+            "sp": 11,
+            "sa": 15,
+            "sd": 27
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Hyper Beam",
+            "Outrage",
+            "Dragon Dance",
+            "Extreme Speed"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "slimeuout",
           "displayName": "slimeuout",
@@ -41416,6 +42475,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "boo",
+          "displayName": "boo",
+          "species": "Gengar",
+          "level": 58,
+          "ability": "Levitate",
+          "item": "",
+          "nature": "Impish",
+          "gender": "",
+          "location": "POKéMON TOWER",
+          "storage": "box",
+          "box": 1,
+          "slot": 2,
+          "ivs": {
+            "hp": 0,
+            "at": 31,
+            "df": 12,
+            "sp": 26,
+            "sa": 0,
+            "sd": 16
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Psywave",
+            "Destiny Bond",
+            "Shadow Punch",
+            "Nightmare"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "boo",
           "displayName": "boo",
@@ -42149,6 +43248,46 @@
             "Confusion",
             "Hypnosis"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "traitorjoe",
+          "displayName": "traitorjoe",
+          "species": "Golduck",
+          "level": 58,
+          "ability": "Swift Swim",
+          "item": "",
+          "nature": "Impish",
+          "gender": "",
+          "location": "ROUTE 6",
+          "storage": "box",
+          "box": 1,
+          "slot": 1,
+          "ivs": {
+            "hp": 11,
+            "at": 14,
+            "df": 17,
+            "sp": 22,
+            "sa": 3,
+            "sd": 17
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Hydro Pump",
+            "Amnesia",
+            "Confusion",
+            "Hypnosis"
+          ]
         }
       ],
       "badges": [],
@@ -42421,6 +43560,46 @@
             "Agility",
             "Feint Attack"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "techdeck",
+          "displayName": "techdeck",
+          "species": "Sneasel",
+          "level": 41,
+          "ability": "Inner Focus",
+          "item": "",
+          "nature": "Careful",
+          "gender": "",
+          "location": "SEAFOAM ISLANDS",
+          "storage": "box",
+          "box": 1,
+          "slot": 22,
+          "ivs": {
+            "hp": 24,
+            "at": 20,
+            "df": 30,
+            "sp": 27,
+            "sa": 22,
+            "sd": 19
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Metal Claw",
+            "Icy Wind",
+            "Agility",
+            "Feint Attack"
+          ]
         }
       ],
       "badges": [],
@@ -42581,6 +43760,46 @@
             "Dragon Breath",
             "Crunch"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "KOMONDO",
+          "displayName": "KOMONDO",
+          "species": "Shelgon",
+          "level": 41,
+          "ability": "Rock Head",
+          "item": "",
+          "nature": "Naughty",
+          "gender": "",
+          "location": "",
+          "storage": "box",
+          "box": 1,
+          "slot": 24,
+          "ivs": {
+            "hp": 24,
+            "at": 31,
+            "df": 22,
+            "sp": 22,
+            "sa": 23,
+            "sd": 22
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Ember",
+            "Protect",
+            "Dragon Breath",
+            "Crunch"
+          ]
         }
       ],
       "badges": [],
@@ -42666,6 +43885,46 @@
           "run": "current",
           "checkpoint": "20260506_141809",
           "file": "current_20260506_141809.sav",
+          "pid": "",
+          "nickname": "bucephalus",
+          "displayName": "bucephalus",
+          "species": "Kingdra",
+          "level": 58,
+          "ability": "Swift Swim",
+          "item": "Sitrus Berry",
+          "nature": "Bashful",
+          "gender": "",
+          "location": "ROUTE 11",
+          "storage": "party",
+          "box": null,
+          "slot": 2,
+          "ivs": {
+            "hp": 7,
+            "at": 11,
+            "df": 17,
+            "sp": 19,
+            "sa": 21,
+            "sd": 31
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Surf",
+            "Dragon Dance",
+            "Bubble Beam",
+            "Hydro Pump"
+          ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
           "pid": "",
           "nickname": "bucephalus",
           "displayName": "bucephalus",
@@ -42989,6 +44248,46 @@
             "Ice Beam",
             "Ancient Power"
           ]
+        },
+        {
+          "run": "current",
+          "checkpoint": "20260506_143648",
+          "file": "current_20260506_143648.sav",
+          "pid": "",
+          "nickname": "Joemama",
+          "displayName": "Joemama",
+          "species": "Lapras",
+          "level": 58,
+          "ability": "Hydration",
+          "item": "",
+          "nature": "Impish",
+          "gender": "",
+          "location": "FUCHSIA CITY",
+          "storage": "party",
+          "box": null,
+          "slot": 4,
+          "ivs": {
+            "hp": 21,
+            "at": 2,
+            "df": 4,
+            "sp": 14,
+            "sa": 5,
+            "sd": 15
+          },
+          "evs": {
+            "hp": 0,
+            "at": 0,
+            "df": 0,
+            "sp": 0,
+            "sa": 0,
+            "sd": 0
+          },
+          "moves": [
+            "Rain Dance",
+            "Body Slam",
+            "Ice Beam",
+            "Ancient Power"
+          ]
         }
       ],
       "badges": [],
@@ -43086,6 +44385,74 @@
             "Ancient Power"
           ],
           "message": "Joemama the Lapras moves changed."
+        },
+        {
+          "id": "1778103408364-fa8c2cb3b1cd5",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.364Z",
+          "auto": true,
+          "type": "auto_new_pokemon",
+          "species": "Lapras",
+          "nickname": "Joemama",
+          "displayName": "Joemama",
+          "level": 58,
+          "ability": "Hydration",
+          "nature": "Impish",
+          "location": "FUCHSIA CITY",
+          "storage": "party",
+          "box": null,
+          "slot": 4,
+          "moves": [
+            "Rain Dance",
+            "Body Slam",
+            "Ice Beam",
+            "Ancient Power"
+          ],
+          "message": "Joemama the Lapras appeared in the save."
+        },
+        {
+          "id": "1778103408365-400c69d2b42988",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.365Z",
+          "auto": true,
+          "type": "auto_possible_death_or_release",
+          "species": "Lapras",
+          "nickname": "Joemama",
+          "displayName": "Joemama",
+          "level": 58,
+          "lastStorage": "party",
+          "lastBox": null,
+          "lastSlot": 5,
+          "message": "Joemama the Lapras disappeared from the save. Confirm whether this was a death, release, or trade.",
+          "needsReview": true
+        },
+        {
+          "id": "1778103408366-ae371786d19658",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.366Z",
+          "auto": true,
+          "type": "auto_party_joined",
+          "species": "Lapras",
+          "nickname": "Joemama",
+          "message": "Joemama the Lapras joined the active party."
+        },
+        {
+          "id": "1778103408366-678301fdcb01b8",
+          "gameId": "fire-red-omega",
+          "gameTitle": "Fire Red Omega",
+          "run": "current",
+          "loggedAt": "2026-05-06T21:36:48.366Z",
+          "auto": true,
+          "type": "auto_party_left",
+          "species": "Lapras",
+          "nickname": "Joemama",
+          "message": "Joemama the Lapras left the active party."
         }
       ]
     }
