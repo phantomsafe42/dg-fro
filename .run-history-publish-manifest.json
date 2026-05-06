@@ -1,6 +1,6 @@
 {
   "source": "beldumsafe/run_history/fire-red-omega",
-  "generatedAt": "2026-05-06T20:25:22.816Z",
+  "generatedAt": "2026-05-06T20:48:40.271Z",
   "files": [
     "index.html",
     "pokemon/castform.html",
@@ -16,7 +16,9 @@
     "pokemon/haunter.html",
     "pokemon/hitmonchan.html",
     "pokemon/horsea.html",
+    "pokemon/kingdra.html",
     "pokemon/krabby.html",
+    "pokemon/lapras.html",
     "pokemon/meganium.html",
     "pokemon/metagross.html",
     "pokemon/pidgeot.html",
