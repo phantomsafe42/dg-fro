@@ -1,6 +1,6 @@
 {
   "source": "beldumsafe/run_history/fire-red-omega",
-  "generatedAt": "2026-05-06T19:15:05.172Z",
+  "generatedAt": "2026-05-06T19:27:34.048Z",
   "files": [
     "index.html",
     "pokemon/castform.html",
@@ -21,6 +21,7 @@
     "pokemon/pidgeot.html",
     "pokemon/poliwrath.html",
     "pokemon/primeape.html",
+    "pokemon/psyduck.html",
     "pokemon/raticate.html",
     "pokemon/roselia.html",
     "pokemon/sceptile.html",
